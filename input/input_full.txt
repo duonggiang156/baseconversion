@@ -1,0 +1,12 @@
+5F hexadecimal binary
+2AF hexadecimal octal
+1A hexadecimal decimal
+25 decimal binary
+75 decimal octal
+42 decimal hexadecimal
+77 octal binary
+100 octal decimal 
+753 octal hexadecimal
+101010 binary octal
+1010 binary decimal
+111 binary hexadecimal
